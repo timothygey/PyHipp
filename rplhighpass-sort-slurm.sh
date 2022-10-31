@@ -28,4 +28,4 @@ export_mountain_cells.export_mountain_cells(); \
 print(time.localtime());"
 
 conda deactivate 
-/data/src/PyHipp/envlist.py $envar
+/data/src/PyHipp/envlist.py $envarg
